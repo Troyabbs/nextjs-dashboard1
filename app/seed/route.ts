@@ -1,4 +1,4 @@
-export const dynamic = 'force-dynamic';
+
 import bcrypt from 'bcryptjs';
 import postgres from 'postgres';
 import { invoices, customers, revenue, users } from '../lib/placeholder-data';
